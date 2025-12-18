@@ -1,16 +1,18 @@
-## Hi there 👋
+## Nelson Adhepeau — Security Researcher / Security Engineer
 
-<!--
-**privlabs/privlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on early security risk analysis:
+**supply-chain trust, update mechanisms, configuration assumptions** —
+before scanning or exploitation.
 
-Here are some ideas to get you started:
+### Current focus
+- Supply-chain security & trust boundaries
+- Linux & infrastructure security
+- CMS & firewall update mechanisms
+- Incident response & root cause analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+- GitHub projects: https://github.com/privlabs
+- Articles & research: https://dev.to/privlabs
+- Offline demo (non-destructive): https://privlabs-security-toolkit.streamlit.app/
+
+
