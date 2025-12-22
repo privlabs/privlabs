@@ -14,5 +14,6 @@ before scanning or exploitation.
 - GitHub projects: https://github.com/privlabs
 - Articles & research: https://dev.to/privlabs
 - Offline demo (non-destructive): https://privlabs-security-toolkit.streamlit.app/
+-  Project & overview: https://privlabs.github.io/supplychain-security-toolkit/
 
 
