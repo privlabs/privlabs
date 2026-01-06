@@ -11,14 +11,14 @@ before scanning or exploitation.
 - Incident response & root cause analysis
 
 ### Links
-- GitHub projects: https://github.com/privlabs
+- GitHub projects — All public repos including Drupal PoC and LPE research : https://github.com/privlabs
 
-- Articles & research:
+- Articles & research — Security research write-ups and PoC walkthroughs :
   https://dev.to/privlabs //
   https://techhub.social/@privlabs //
   https://www.pitchhut.com/project/drupal-supply-chain-attack-simulation
   
-- Offline demo (non-destructive): https://privlabs-security-toolkit.streamlit.app/
--  Project & overview: https://privlabs.github.io/supplychain-security-toolkit/
+- Offline demo — Non-destructive toolkit for early security risk exploration : https://privlabs-security-toolkit.streamlit.app/
+-  Project & overview — Concept overview and documented tools : https://privlabs.github.io/supplychain-security-toolkit/
 
 
