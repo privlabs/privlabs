@@ -11,14 +11,12 @@ before scanning or exploitation.
 - Incident response & root cause analysis
 
 ### Links
-- GitHub projects — All public repos including Drupal PoC and LPE research : https://github.com/privlabs
-
-- Articles & research — Security research write-ups and PoC walkthroughs :
-  https://dev.to/privlabs //
-  https://techhub.social/@privlabs //
-  https://www.pitchhut.com/project/drupal-supply-chain-attack-simulation
-  
-- Offline demo — Non-destructive toolkit for early security risk exploration : https://privlabs-security-toolkit.streamlit.app/
--  Project & overview — Concept overview and documented tools : https://privlabs.github.io/supplychain-security-toolkit/
+- 🔴 [CVE-2025-69690 & CVE-2025-69691](https://github.com/privlabs/CVE-2025-69690-CVE-2025-69691) — Authenticated RCE in Netgate pfSense CE
+- 🔬 [Drupal Supply Chain PoC](https://github.com/privlabs/-Supply-Chain-Attack-Simulation-on-Drupal-RCE-via-Malicious-Update-Server-PoC-not-a-CVE-) — Supply chain attack simulation research
+- 🐧 [LPE Cron Misconfig](https://github.com/privlabs/lpe-cron-misconfig-2025) — Linux privilege escalation research
+- 🛠️ [Supply Chain Security Toolkit](https://privlabs-security-toolkit.streamlit.app/) — Tool for early detection of design flaws & trust boundary issues
+- 📖 [Toolkit Overview](https://privlabs.github.io/supplychain-security-toolkit/) — Concept & documentation
+- 🔗 [dev.to/privlabs](https://dev.to/privlabs) — Research articles
+- 🐘 [techhub.social/@privlabs](https://techhub.social/@privlabs) — Mastodon
 
 
