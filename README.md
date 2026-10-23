@@ -12,11 +12,11 @@ before scanning or exploitation.
 
 ---
 
-### ⚠️ Latest — October 2026
+### ⚠️ Latest : October 2026
 
 **PHP2Shell context (CVE-2026-109618 / CVE-2026-109619, CVSS 9.2)**
 
-My Drupal supply chain PoC, published December 2025 — 10 months before PHP2Shell — demonstrates exactly the attack vector that becomes critical when administrators rush to patch under time pressure.
+My Drupal supply chain PoC, published December 2025, 10 months before PHP2Shell, demonstrates exactly the attack vector that becomes critical when administrators rush to patch under time pressure.
 
 📄 [PHP2Shell + Supply Chain: Why patching fast could make things worse](https://dev.to/privlabs/php2shell-supply-chain-why-patching-fast-could-make-things-worse-51h6)
 
