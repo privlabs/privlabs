@@ -12,7 +12,7 @@ before scanning or exploitation.
 
 ---
 
-### ⚠️ Latest : October 2026
+### ⚠️ Latest October 2026
 
 **PHP2Shell context (CVE-2026-109618 / CVE-2026-109619, CVSS 9.2)**
 
