@@ -45,13 +45,6 @@ My Drupal supply chain PoC, published December 2025, 10 months before PHP2Shell,
 
 ---
 
-### Tools & Documentation
-
-- 🛠️ [Supply Chain Security Toolkit](https://privlabs-security-toolkit.streamlit.app/) — Tool for early detection of design flaws & trust boundary issues
-- 📖 [Toolkit Overview](https://privlabs.github.io/supplychain-security-toolkit/) — Concept & documentation
-
----
-
 ### Follow & Contact
 
 - 🔗 [dev.to/privlabs](https://dev.to/privlabs) — Research articles
